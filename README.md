@@ -19,8 +19,8 @@ Para quién es #AprendoApp?
 Cómo empezar?
 1.	Ingresá a la aplicación mediante el siguiente link [URL].
 2.	Crea una cuenta o inicia sesión con tus credenciales (…).
-3.	Explora el contenido disponible y encuentra los cursos y talleres que te interesan.
-4.	Empeza a aprender a tu ritmo y desde cualquier lugar!
+4.	Explora el contenido disponible y encuentra los cursos y talleres que te interesan.
+5.	Empeza a aprender a tu ritmo y desde cualquier lugar!
 
 Documentación
 Para obtener más información sobre #AprendoApp, consulta la siguiente documentación:
