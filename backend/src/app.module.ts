@@ -9,9 +9,8 @@ import { ActivityModule } from './activity/activity.module';
   imports: [
     UserModule,
     MongooseModule.forRoot(process.env.DATABASE_CONEXION_STRING),
-    PoapModule,
     QuestModule,
-    ActivityModule
+    ActivityModule,
   ],
   controllers: [],
   providers: [],
