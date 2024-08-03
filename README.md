@@ -1,16 +1,20 @@
 #Aprendo App: Aprende a tu ritmo y desde cualquier lugar!
 
 Introducción
+
 En un esfuerzo por ampliar el impacto de Proof of Integrity y fortalecer nuestra misión de promover la inclusión social y el desarrollo de las comunidades vulnerables, presentamos nuestra plataforma blockchain web3 para la #comunidadAPRENDO. Esta plataforma integra la gamificación, implementando el uso de POAPs (Proof of Attendance Protocol) para fomentar y potenciar la participación activa de los usuarios.
 La gamificación, entendida como la aplicación de elementos de diseño de juegos en contextos no lúdicos, es una herramienta poderosa para incentivar la participación continua, el aprendizaje y el compromiso. En nuestra plataforma, los POAPs funcionarán como una moneda de cambio virtual, obtenidos como reconocimientos de logros y participación en actividades y talleres, y necesarios para poder acceder a nuevas oportunidades de aprendizaje y crecimiento. Este sistema de recompensas y desafíos atrae a los usuarios a una participación más profunda y significativa en la comunidad, manteniéndolos motivados para continuar aprendiendo y contribuyendo al ecosistema de la #comunidadAPRENDO.
 
 Objetivo
+
 Nuestro objetivo es brindar a los jóvenes de comunidades vulnerables las habilidades y la experiencia necesarias para navegar e interactuar en web3, reduciendo la brecha tecnológica y acompañándolos en cada etapa del proceso. La plataforma de #comunidadAPRENDO será un elemento clave en este esfuerzo, conectando a los jóvenes, la tecnología y la educación para construir un futuro más inclusivo y equitativo.
 
 Propuesta
+
 Esta propuesta de plataforma está diseñada para enriquecer la experiencia de los graduados de #aPRENDOcripto y ofrecerles una infraestructura sólida para su participación en la #comunidadAPRENDO. 
 
 La plataforma permitirá a los usuarios:
+
 1.	Iniciar sesión en Web3.
 2.	Crear y gestionar perfiles personales, demostrando habilidades y logros obtenidos en la #comunidadAPRENDO.
 3.	Visualizar sus POAPs/NFTs de #comunidadAPRENDO acumulados, reconocimientos de su participación y logros en los talleres y actividades de la #comunidadAPRENDO.
@@ -20,6 +24,7 @@ La plataforma permitirá a los usuarios:
 7.	Recibir automáticamente POAPs/NFTs y claimear incentivos en la red Optimism en su perfil una vez que hayan completado una actividad.
 
 Características principales:
+
 #Aprendo App es una aplicación diseñada para facilitar el aprendizaje de cualquier persona, en cualquier lugar y a su propio ritmo. La aplicación ofrece una amplia variedad de cursos, talleres y recursos educativos en diversos temas como blockchain/web3, finanzas, programación y desarrollo personal.
 
 •	Biblioteca de contenido: Accede a cursos, talleres y recursos educativos en diversos temas.
@@ -29,7 +34,9 @@ Características principales:
 •	Aprendizaje sin conexión: Descarga contenido para aprender sin conexión a internet.
 •	Comunidad de aprendizaje: Conecta con otros usuarios y participa en foros de discusión para compartir experiencias y resolver dudas.
 
+
 Para quién es #AprendoApp?
+
 #Aprendo App es ideal para:
 
 •	Estudiantes: Complementa tu aprendizaje en el aula con recursos adicionales y herramientas de estudio.
@@ -37,6 +44,7 @@ Para quién es #AprendoApp?
 •	Personas que buscan aprender algo nuevo: Explora nuevos intereses y descubre nuevas pasiones.
 
 Cómo empezar?
+
 1.	Ingresá a la aplicación mediante el siguiente link [URL].
    
 3.	Inicia sesión con tu cuenta de Discord.
@@ -79,11 +87,17 @@ Cómo empezar?
 
 
 Contribuciones
+
 Te invitamos a contribuir al desarrollo de #Aprendo App! Puedes hacerlo reportando errores, sugiriendo nuevas funciones o creando contenido educativo. 
+
 
 Únete a la Comunidad #Aprendo y sigamos aprendiendo juntos! 
 
 Redes
+
 Web: https://www.proofofintegrity.org/
+
 Twitter: https://twitter.com/aprendolatam
+
 Discord: https://discord.gg/y645AejH
+
