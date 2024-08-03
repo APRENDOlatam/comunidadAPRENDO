@@ -77,30 +77,32 @@ Cómo empezar?
 
    
     ![AprendoApp 3](https://github.com/user-attachments/assets/69c9c36b-4a77-475e-9ddc-dc0131f69079)
+
+   
+
+6.  Explora el contenido disponible y encuentra los cursos y talleres que te interesan.
   	
   	
     ![AprendoApp 4](https://github.com/user-attachments/assets/413760ae-8909-4cde-8942-64b33b9675b4)
   	  	
-  	
-    Explora el contenido disponible y encuentra los cursos y talleres que te interesan.
-  	
+  		
 
    
-5.	Conecta tu billetera Web3 para reclamar incentivos y premios que vayas consiguiendo tras completar cada actividad.
+7.	Conecta tu billetera Web3 para reclamar incentivos y premios que vayas consiguiendo tras completar cada actividad.
 
    
     ![AprendoApp 5](https://github.com/user-attachments/assets/2c318e36-1f18-4d4e-9300-71d5f9f9d5a0)
   	
 
    
-7.	Mirá el estado de tus transacciones y saldo de tu billetera Web3.
+8.	Mirá el estado de tus transacciones y saldo de tu billetera Web3.
 
     
     ![AprendoApp 6](https://github.com/user-attachments/assets/8460e959-38f6-4865-b258-decdb1e873e3)
 
 
 
-8.	Revisá tus Logros completados y por desbloquear.
+9.	Revisá tus Logros completados y por desbloquear.
 
     
     ![AprendoApp 7](https://github.com/user-attachments/assets/f8ce5103-999b-4ee0-976c-af3f6eae7cfd)
