@@ -55,7 +55,9 @@ Para quién es #AprendoApp?
 #Aprendo App es ideal para:
 
 •	Estudiantes: Complementa tu aprendizaje en el aula con recursos adicionales y herramientas de estudio.
+
 •	Profesionales: Desarrolla nuevas habilidades y mantente actualizado en las últimas tendencias de tu campo.
+
 •	Personas que buscan aprender algo nuevo: Explora nuevos intereses y descubre nuevas pasiones.
 
 
