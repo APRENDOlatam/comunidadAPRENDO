@@ -28,10 +28,15 @@ Características principales:
 #Aprendo App es una aplicación diseñada para facilitar el aprendizaje de cualquier persona, en cualquier lugar y a su propio ritmo. La aplicación ofrece una amplia variedad de cursos, talleres y recursos educativos en diversos temas como blockchain/web3, finanzas, programación y desarrollo personal.
 
 •	Biblioteca de contenido: Accede a cursos, talleres y recursos educativos en diversos temas.
+
 •	Aprendizaje personalizado: Crea tu propio plan de aprendizaje personalizado según tus intereses y necesidades.
+
 •	Formato interactivo: Disfruta de lecciones dinámicas e interactivas que incluyen videos, cuestionarios y actividades prácticas.
+
 •	Seguimiento del progreso: Monitorea tu progreso y mantente motivado con informes detallados de tu avance.
+
 •	Aprendizaje sin conexión: Descarga contenido para aprender sin conexión a internet.
+
 •	Comunidad de aprendizaje: Conecta con otros usuarios y participa en foros de discusión para compartir experiencias y resolver dudas.
 
 
