@@ -38,7 +38,9 @@ Para quién es #AprendoApp?
 
 Cómo empezar?
 1.	Ingresá a la aplicación mediante el siguiente link [URL].
-2.	Inicia sesión con tu cuenta de Discord.
+   
+3.	Inicia sesión con tu cuenta de Discord.
+   
     ![AprendoApp 1](https://github.com/user-attachments/assets/5e7487e0-ace9-4a9f-88fd-334f93e6aa56)
   	
 3.	Configura tu perfil de usuario.
@@ -54,10 +56,10 @@ Cómo empezar?
 5.	Conecta tu billetera Web3 para reclamar incentivos y premios que vayas consiguiendo tras completar cada actividad.
     ![AprendoApp 5](https://github.com/user-attachments/assets/2c318e36-1f18-4d4e-9300-71d5f9f9d5a0)
   	
-7.	Mirá el estado de tus transacciones y saldo de tu billetera Web3.
+6.	Mirá el estado de tus transacciones y saldo de tu billetera Web3.
     ![AprendoApp 6](https://github.com/user-attachments/assets/8460e959-38f6-4865-b258-decdb1e873e3)
 
-8.	Revisá tus Logros completados y por desbloquear.
+7.	Revisá tus Logros completados y por desbloquear.
     ![AprendoApp 7](https://github.com/user-attachments/assets/f8ce5103-999b-4ee0-976c-af3f6eae7cfd)
   	![AprendoApp 8](https://github.com/user-attachments/assets/0bb06c89-e8f8-4902-ad84-8d0c67eb6242)
 
