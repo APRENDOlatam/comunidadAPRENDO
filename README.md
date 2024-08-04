@@ -8,19 +8,19 @@ Introducción
 
 En un esfuerzo por ampliar el impacto de Proof of Integrity y fortalecer nuestra misión de promover la inclusión social y el desarrollo de las comunidades vulnerables, presentamos nuestra plataforma blockchain web3 para la #comunidadAPRENDO. Esta plataforma integra la gamificación, implementando el uso de POAPs (Proof of Attendance Protocol) y/o NFTs (Non -Fungible Tokens) para fomentar y potenciar la participación activa de los usuarios.
 
-La gamificación, entendida como la aplicación de elementos de diseño de juegos en contextos no lúdicos, es una herramienta poderosa para incentivar la participación continua, el aprendizaje y el compromiso. En nuestra plataforma, los POAPs funcionarán como una moneda de cambio virtual, obtenidos como reconocimientos de logros y participación en actividades y talleres, y necesarios para poder acceder a nuevas oportunidades de aprendizaje y crecimiento. Este sistema de recompensas y desafíos atrae a los usuarios a una participación más profunda y significativa en la comunidad, manteniéndolos motivados para continuar aprendiendo y contribuyendo al ecosistema de la #comunidadAPRENDO.
+La gamificación, entendida como la aplicación de elementos de diseño de juegos en contextos no lúdicos, es una herramienta poderosa para incentivar la participación continua, el aprendizaje y el compromiso. En nuestra plataforma, los POAPs/NFTs funcionarán como una moneda de cambio virtual, obtenidos como reconocimientos de logros y participación en actividades y talleres, y necesarios para poder acceder a nuevas oportunidades de aprendizaje y crecimiento. Este sistema de recompensas y desafíos atrae a los usuarios a una participación más profunda y significativa en la comunidad, manteniéndolos motivados para continuar aprendiendo y contribuyendo al ecosistema de la #comunidadAPRENDO.
 
 
 
 Objetivo
 
-Nuestro objetivo es brindar a los jóvenes de comunidades vulnerables las habilidades y la experiencia necesarias para navegar e interactuar en web3, reduciendo la brecha tecnológica y acompañándolos en cada etapa del proceso. La plataforma de #comunidadAPRENDO será un elemento clave en este esfuerzo, conectando a los jóvenes, la tecnología y la educación para construir un futuro más inclusivo y equitativo.
+Nuestro objetivo es brindar a los jóvenes de COMUNIDADES VULNERABLES las habilidades y la experiencia necesarias para navegar e interactuar en web3, reduciendo la brecha tecnológica y acompañándolos en cada etapa del proceso. La plataforma de #comunidadAPRENDO será un elemento clave en este esfuerzo, conectando a los jóvenes, la tecnología y la educación para construir un futuro más inclusivo y equitativo.
 
 
 
 Propuesta
 
-Esta propuesta de plataforma está diseñada para enriquecer la experiencia de los graduados de #aPRENDOcripto y ofrecerles una infraestructura sólida para su participación en la #comunidadAPRENDO. 
+Esta propuesta de plataforma está diseñada para enriquecer la experiencia de los graduados de #aPRENDOcripto que consta de una serie de cursos y talleres y ofrecerles una infraestructura sólida para su participación en la #comunidadAPRENDO. 
 
 
 
@@ -31,8 +31,8 @@ La plataforma permitirá a los usuarios:
 3.	Visualizar sus POAPs/NFTs de #comunidadAPRENDO acumulados, reconocimientos de su participación y logros en los talleres y actividades de la #comunidadAPRENDO.
 4.	Generar y registrarse en diversas actividades propuestas por la #comunidadAPRENDO.
 5.	Acceder a un 'marketplace' de actividades, donde podrán explorar y leer detalles sobre cada actividad disponible, y verificar qué POAPs se requieren para participar en cada una.
-6.	Inscribirse en actividades directamente desde la plataforma. Al hacerlo, la plataforma verificará automáticamente si el usuario tiene los POAPs requeridos para participar.
-7.	Recibir automáticamente POAPs/NFTs y claimear incentivos en la red Optimism en su perfil una vez que hayan completado una actividad.
+6.	Inscribirse en actividades directamente desde la plataforma. Al hacerlo, la plataforma verificará automáticamente si el usuario tiene los POAPs/NFTs requeridos para participar.
+7.	Recibir automáticamente POAPs/NFTs y claimear incentivos en su perfil una vez que hayan completado una actividad.
 
 
 
