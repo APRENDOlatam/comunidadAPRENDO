@@ -1,5 +1,3 @@
-TRACK: GENERAL 
-
 
 
 #Aprendo App: Aprende a tu ritmo y desde cualquier lugar!
