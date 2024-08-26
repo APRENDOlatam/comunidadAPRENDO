@@ -1,7 +1,7 @@
 import { Document } from 'mongoose';
 
 export interface Certificacion extends Document {
-  id_curso: string;
+  id_certificacion: string;
   readonly id_desafio: string;
   readonly id_usuario: string;
   readonly estado: boolean;
