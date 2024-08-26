@@ -11,21 +11,21 @@ import {
   Delete,
   Query,
 } from '@nestjs/common';
-import { ActivityService } from './activity.service';
-import { CreateActivityDTO } from './dto/createActivityDTO';
+import { CursoService } from './curso.service';
+import { CreateCursoDTO } from './dto/createCursoDTO';
 import { ApiTags } from '@nestjs/swagger';
 
-@ApiTags('activity')
-@Controller('activity')
-export class ActivityController {
-  constructor(private activityService: ActivityService) {}
+@ApiTags('curso')
+@Controller('curso')
+export class CursoController {
+  constructor(private cursoService: CursoService) {}
 
   @Post('/create')
-  async createUser(@Res() res, @Body() createActivityDTO: CreateActivityDTO) {
+  async createUser(@Res() res, @Body() createCursoDTO: CreateCursoDTO) {
     try {
-      const quest = await this.activityService.createActivity(createActivityDTO);
+      const quest = await this.cursoService.createCurso(createCursoDTO);
       return res.status(HttpStatus.OK).json({
-        message: 'Quest created',
+        message: 'Curso creado',
         quest,
       });
     } catch (error) {
@@ -33,11 +33,10 @@ export class ActivityController {
     }
   }
 
-
   @Get('/getById/:idActivity')
   async getById(@Res() res, @Param('idActivity') idActivity: string) {
     try {
-      const quest = await this.activityService.getById(idActivity);
+      const quest = await this.cursoService.getById(idActivity);
       if (!quest) throw new NotFoundException('Activity Does not exists');
       return res.status(HttpStatus.OK).json(quest);
     } catch (error) {
@@ -48,12 +47,11 @@ export class ActivityController {
   @Get()
   async getActivitys(@Res() res) {
     try {
-      const quests = await this.activityService.getQuests();
+      const quests = await this.cursoService.getCursos();
       if (!quests) throw new NotFoundException('Quest Does not exists');
       return res.status(HttpStatus.OK).json(quests);
     } catch (error) {
       res.status(HttpStatus.INTERNAL_SERVER_ERROR).send(error);
     }
   }
-
 }

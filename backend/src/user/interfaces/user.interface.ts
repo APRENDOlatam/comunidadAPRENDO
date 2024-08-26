@@ -1,13 +1,12 @@
 import { Document } from 'mongoose';
 
 export interface User extends Document {
-  readonly username: string;
-  readonly accountid: string;
+  readonly nombre_usuario: string;
+  id_usuario: string;
   readonly avatar: string;
-  readonly firstname: string;
-  readonly lastname: string;
   readonly email: string;
-  readonly country: string;
-  readonly city: string;
-  readonly createdat: Date;
+  readonly billetera_crypto: string;
+  readonly pais: string;
+  readonly id_casa: number;
+  readonly fecha_registro: Date;
 }
