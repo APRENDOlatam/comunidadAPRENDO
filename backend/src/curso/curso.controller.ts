@@ -33,11 +33,11 @@ export class CursoController {
     }
   }
 
-  @Get('/getById/:idActivity')
-  async getById(@Res() res, @Param('idActivity') idActivity: string) {
+  @Get('/getById/:idCurso')
+  async getById(@Res() res, @Param('idCurso') idCurso: string) {
     try {
-      const quest = await this.cursoService.getById(idActivity);
-      if (!quest) throw new NotFoundException('Activity Does not exists');
+      const quest = await this.cursoService.getById(idCurso);
+      if (!quest) throw new NotFoundException('Curso no existe');
       return res.status(HttpStatus.OK).json(quest);
     } catch (error) {
       res.status(HttpStatus.INTERNAL_SERVER_ERROR).send(error);
@@ -45,10 +45,10 @@ export class CursoController {
   }
 
   @Get()
-  async getActivitys(@Res() res) {
+  async getCursos(@Res() res) {
     try {
       const quests = await this.cursoService.getCursos();
-      if (!quests) throw new NotFoundException('Quest Does not exists');
+      if (!quests) throw new NotFoundException('No existen cursos');
       return res.status(HttpStatus.OK).json(quests);
     } catch (error) {
       res.status(HttpStatus.INTERNAL_SERVER_ERROR).send(error);

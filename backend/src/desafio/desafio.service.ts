@@ -35,4 +35,9 @@ export class DesafioService {
     );
     return updatedHouse;
   }
+
+  async getDesafios(): Promise<Desafio[]> {
+    const cursos = await this.desafioModel.find();
+    return cursos;
+  }
 }

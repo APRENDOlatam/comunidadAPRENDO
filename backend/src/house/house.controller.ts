@@ -66,8 +66,19 @@ export class HouseController {
     );
     if (!userUpdated) throw new NotFoundException('User Does not exists');
     return res.status(HttpStatus.OK).json({
-      message: 'User Updated Succesfully',
+      message: 'Casa Actualizada',
       userUpdated,
     });
+  }
+
+  @Get()
+  async getHouses(@Res() res) {
+    try {
+      const houses = await this.houseService.getHouses();
+      if (!houses) throw new NotFoundException('No existen casas');
+      return res.status(HttpStatus.OK).json(houses);
+    } catch (error) {
+      res.status(HttpStatus.INTERNAL_SERVER_ERROR).send(error);
+    }
   }
 }

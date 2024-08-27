@@ -10,7 +10,7 @@ export class CertificacionService {
     private certificacionModel: Model<Certificacion>,
   ) {}
 
-  async getCertificacionById(certificacionId: number): Promise<Certificacion> {
+  async getCertificacionById(certificacionId: string): Promise<Certificacion> {
     const desafio = this.certificacionModel.findOne({
       id_certificacion: certificacionId,
     });
@@ -36,5 +36,10 @@ export class CertificacionService {
         { new: true },
       );
     return updatedCertificacion;
+  }
+
+  async getCertificaciones(): Promise<Certificacion[]> {
+    const cursos = await this.certificacionModel.find();
+    return cursos;
   }
 }

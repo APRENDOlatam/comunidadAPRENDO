@@ -33,4 +33,9 @@ export class HouseService {
     );
     return updatedHouse;
   }
+
+  async getHouses(): Promise<House[]> {
+    const casas = await this.houseModel.find();
+    return casas;
+  }
 }

@@ -6,6 +6,7 @@ import 'dotenv/config';
 import { CursoModule } from './curso/curso.module';
 import { DesafioModule } from './desafio/desafio.module';
 import { CertificacionModule } from './certificacion/certificacion.module';
+import { BlockchainModule } from './blockchain/blockchain.module';
 @Module({
   imports: [
     UserModule,
@@ -14,6 +15,7 @@ import { CertificacionModule } from './certificacion/certificacion.module';
     CursoModule,
     DesafioModule,
     CertificacionModule,
+    BlockchainModule,
   ],
   controllers: [],
   providers: [],
