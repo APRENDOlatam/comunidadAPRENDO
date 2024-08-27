@@ -15,7 +15,7 @@ import { BlockchainModule } from './blockchain/blockchain.module';
     CursoModule,
     DesafioModule,
     CertificacionModule,
-    BlockchainModule,
+    BlockchainModule
   ],
   controllers: [],
   providers: [],
