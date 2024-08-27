@@ -1,16 +1,21 @@
 import { Module } from '@nestjs/common';
 import { UserModule } from './user/user.module';
 import { MongooseModule } from '@nestjs/mongoose';
-import { PoapModule } from './poap/poap.module';
-import { QuestModule } from './quest/quest.module';
+import { HouseModule } from './house/house.module';
 import 'dotenv/config';
-import { ActivityModule } from './activity/activity.module';
+import { CursoModule } from './curso/curso.module';
+import { DesafioModule } from './desafio/desafio.module';
+import { CertificacionModule } from './certificacion/certificacion.module';
+import { BlockchainModule } from './blockchain/blockchain.module';
 @Module({
   imports: [
     UserModule,
     MongooseModule.forRoot(process.env.DATABASE_CONEXION_STRING),
-    QuestModule,
-    ActivityModule,
+    HouseModule,
+    CursoModule,
+    DesafioModule,
+    CertificacionModule,
+    BlockchainModule,
   ],
   controllers: [],
   providers: [],

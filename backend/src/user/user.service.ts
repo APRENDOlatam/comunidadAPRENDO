@@ -8,17 +8,18 @@ export class UserService {
   constructor(@InjectModel('User') private userModel: Model<User>) {}
 
   async getUserByName(userName: string): Promise<User> {
-    const user = this.userModel.findOne({ username: userName });
+    const user = this.userModel.findOne({ nombre_usuario: userName });
     return user;
   }
 
   async getUserByAccountId(accountId: string): Promise<User> {
-    const user = this.userModel.findOne({ accountid: accountId });
+    const user = this.userModel.findOne({ id_usuario: accountId });
     return user;
   }
 
   async createUser(createUserDTO: CreateUserDTO): Promise<User> {
-    const product = new this.userModel(createUserDTO);
+    let product = new this.userModel(createUserDTO);
+    product.id_usuario = product._id;
     return await product.save();
   }
 

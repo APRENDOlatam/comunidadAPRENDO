@@ -1,15 +1,15 @@
 import { Schema } from 'mongoose';
 
 export const UserSchema = new Schema({
-  username: { type: String, required: true },
-  accountid: String,
+  nombre_usuario: { type: String, required: true },
+  id_usuario: String,
   avatar: String,
-  firstname: String,
-  lastname: String,
   email: String,
-  country: String,
-  city: String,
-  createdat: {
+  billetera_crypto: String,
+  pais: String,
+  estado: Boolean,
+  id_casa: Number,
+  fecha_registro: {
     type: Date,
     default: Date.now,
   },
