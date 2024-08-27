@@ -15,6 +15,7 @@ import { BlockchainService } from './blockchain.service';
 import { CreateBlockchainDTO } from './dto/blockchain.dto';
 import { ApiTags } from '@nestjs/swagger';
 
+@ApiTags('blockchain')
 @Controller('blockchain')
 export class BlockchainController {
   constructor(private blockchainService: BlockchainService) {}
